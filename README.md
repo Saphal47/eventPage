@@ -11,6 +11,9 @@ https://docs.google.com/spreadsheets/d/1bJ4V0BowZuW0wDpU_PmuYOC2JRBSuWrCpHjWMmmO
 
 ## How to run the projetct?
 
+Clone the repository in your terminal using:
+<pre>git clone https://github.com/Saphal47/eventPage.git</pre>
+
 Install the project's dependencies by running the command:
 
 <pre>npm install</pre>
